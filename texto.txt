@@ -1,1 +1,3 @@
 Hoje é Terçaaaaaaa
+Estudando comandos em Git 
+no VScode
